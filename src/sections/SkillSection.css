@@ -1,0 +1,45 @@
+.third{
+  background-color: gray;
+}
+.cards-wrapper{
+  display: flex;
+  width: 700px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.card{
+  width: 120px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: #caf0f8;
+  margin: 10px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1), 0 1px 2px rgba(0,0,0,0.2);
+  transition: all 0.3s linear;
+}
+.card:hover{
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.25) ;
+}
+.image-wrapper{
+  width: 110px;
+  height: 90px;
+  text-align: center;
+  padding: 5px;
+}
+img{
+  max-width: 100%;
+  max-height: 100%;
+}
+.skill-title-wrapper{
+  padding: 5px;
+  width: 110px;
+  height: 100px;
+  display: flex;
+  color: black;
+  flex-direction: column;
+  align-content: center;
+  justify-content: flex-end;
+}

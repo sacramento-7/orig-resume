@@ -1,0 +1,9 @@
+.second{
+  background-color: yellow;
+  color: white;
+}
+.second p{
+  width: 80%;
+  font-size: 1.4rem;
+  padding: 0.7rem;
+}

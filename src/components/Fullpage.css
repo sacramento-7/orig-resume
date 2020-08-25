@@ -1,0 +1,9 @@
+.fullpage{
+  min-height: 100vh;
+  width: calc(100vw - (100vw - 100%));
+  display: flex;
+  flex: auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

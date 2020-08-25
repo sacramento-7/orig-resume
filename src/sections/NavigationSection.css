@@ -1,0 +1,35 @@
+.navigation{
+  position: fixed;
+  width: 90%;
+  margin-top: -2rem;
+  transform: translateY(2.5rem);
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+.navigation button{
+  background-color: transparent;
+  cursor: pointer;
+  border-style: none;
+  padding: 0.5rem;
+  /* color: white; */
+  font-size: 1rem;
+  font-family: 'Krona One', sans-serif;
+}
+.navigation button:hover{
+  transform: translate(-5px, -5px);
+}
+button.b2 i{
+  margin-right: 0.3rem;
+}
+.right1{
+  width: 10%;
+  display: flex;
+  justify-content: space-around;
+}
+.right1 button{
+  margin-left: 0.5rem;
+}
+.left1{
+  width: 90%;
+}

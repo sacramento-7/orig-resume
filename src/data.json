@@ -1,0 +1,88 @@
+{
+  "title": "Hello I'm Hossein!",
+  "subtitle": "Engineer | Front-End Dev | Open-Source Enthusiast",
+  "links": {
+        "github": "https://github.com/sacramento-7",
+        "linkedIn": "linkedin.com › hossein-kashfinia-756888107",
+        "instagram": "https://www.instagram.com/hossein_k_89/",
+        "facebook": "https://www.facebook.com/hossein.nia1/"
+  },
+  "sections": [
+        {
+          "title": "About",
+          "items": [
+              {
+                "type": "p",
+                "content": "I am an engineer. I received my bachelor's degree in Agricultural Machinery engineering at Shiraz University in 2012. Then, I finished an M.Sc. in Biosystem engineering at the University of Tehran in 2015."
+              },
+              {
+                "type": "p",
+                "content": "I have designed many fragments during my study. My passion for precision agriculture makes me shift my research from a mechanical perspective to an electronic standpoint. I am currently working on open resources programs like Python for data acquisition and the Open-CV library in Python for image processing and computer vision issues. Besides, I would very much like to work on deep learning and utilize this state-of-the-art invention's capability to solve agricultural problems."
+              },
+              {
+                "type": "p",
+                "content": "All in all, I believe new techniques in the computer vision field like object detection algorithms can revolutionize the whole concept of precision agriculture. In this regard, I am passionate to learn programing in order to come up with the quick steps of Modern's world."
+              }
+              
+          ]
+        },
+        {
+          "title": "Skills",
+          "items": [
+              {
+                "type": "card",
+                "content": {
+                    "image": "images/ReactJs.png",
+                    "title": "React"
+                }
+              },
+              {
+                "type": "card",
+                "content": {
+                    "image": "images/javascript.png",
+                    "title": "Javascript"
+                }
+              },
+              {
+                "type": "card",
+                "content": {
+                    "image": "images/html.png",
+                    "title": "HTML"
+                }
+              },
+              {
+                "type": "card",
+                "content": {
+                    "image": "images/css-logo.png",
+                    "title": "CSS"
+                }
+              },
+              {
+                "type": "card",
+                "content": {
+                    "image": "images/solidWork.png",
+                    "title": "SolidWorks"
+                }
+              },
+              {
+                "type": "card",
+                "content": {
+                    "image": "images/AnsysLogo.png",
+                    "title": "Ansys"
+                }
+              },
+              {
+                "type": "card",
+                "content": {
+                    "image": "images/matlab.png",
+                    "title": "Matlab"
+                }
+              }
+          ]
+        }
+  ],
+  "icons": {
+    "down": "images/down.png",
+    "up": "images/up.png"
+  }
+}
